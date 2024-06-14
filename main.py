@@ -17,7 +17,7 @@ janela.geometry("600x600")
 
 
 #criar os botões, textos e demais elementos
-titulo = customtkinter.CTkLabel(janela, text=" Conversor de Moedas ", font=("Times New Roman", 29), text_color=(126, 188, 131))
+titulo = customtkinter.CTkLabel(janela, text=" Conversor de Moedas ", font=("Times New Roman", 29), text_color="green")
 texto_moeda_origem = customtkinter.CTkLabel(janela, text= "Selecione a moeda de origem")
 texto_moeda_destino = customtkinter.CTkLabel(janela, text= "Selecione a moeda de destino")
 campo_moeda_origem = customtkinter.CTkOptionMenu (janela, values= ["USD", "EUR", "BRL", "BTC"])
