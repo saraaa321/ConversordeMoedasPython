@@ -40,7 +40,7 @@ pip install customtkinter xmltodict requests
 
 ## Screenshots
 
-! <img src="image.png">
+ <img src="image.png">
 
 
 ## 🖇️Aprendizados
