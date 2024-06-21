@@ -50,7 +50,7 @@ Nós alunos aprendemos a aplicar diferentes bibliotecas no VisualStudioCode, sim
 
 
 ## ✒️ Autores
-### Grupo 08:
+### Grupo 01:
 - Larissa, n°07
 - Sara, n°16
 - Eduardo, n°28
